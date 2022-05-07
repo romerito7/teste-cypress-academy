@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://bugbank.netlify.app",
+
+    "testFiles": "**/*.feature"
+
+    
+}
+
+
+  
